@@ -17,5 +17,6 @@ Die Erreichbarkeit des Freizeitwerkes ist <vorstand@selbsthilfe-freizeitwerk.de>
         Vollmerhauserstraße 81
         51645 Gummersbach
 
-Kontakt zu dieser Seite:
+Kontakt zu dieser Seite
+
 <webmaster@a-freizeiten.de>

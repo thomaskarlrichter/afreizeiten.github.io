@@ -1,3 +1,7 @@
+---
+layout: default
+title: Pinnwand
+---
 # Pinnwand
 
 Nachrichten von Freizeitlern an Freizeitler, z.B.

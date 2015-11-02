@@ -59,11 +59,24 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+ }
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 5rem 6rem;
+    background-image: url("../images/logo-afreizeiten.jpeg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  }
+  nav {
+    padding-left: 200px;
+    text-align: left;
+  }
+  h1 {
+    padding-left: 200px;
+    text-align: left;
+  }
+ }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {

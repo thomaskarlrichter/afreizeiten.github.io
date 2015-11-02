@@ -75,7 +75,7 @@ Jugendherberge Friedrichshafen
 
 vom 2. und 4. Sa. im Monat 17 - 19h
 
-Flyer Kölner Komitee.pdf
+[Flyer Kölner Komitee.pdf](/pdf/FlyerKölnerKomitee.pdf)
 
 ### Peter lädt ein zu Mini-Freizeiten in MINDEN
 
@@ -92,7 +92,7 @@ auch für die, die schon dabei waren:
 bitte auch noch mal sorgfältig neu lesen, wegen der Neuerungen
 
 weitere Infos hier:
-MINIFREIZEITEN 2015+16.pdf
+[MINIFREIZEITEN 2015+16.pdf](/pdf/MINIFREIZEITEN2015+16.pdf)
 PDF-Dokument [106.2 KB]
 
 ### MINI-FREIZEIT IN BLUMENTHAL
@@ -100,7 +100,7 @@ von Mechtild und Ulrike
 
 vom 15. bis 17. Juli 2016
 
-Mini-Freizeit in Blumenthal.pdf
+[Mini-Freizeit in Blumenthal.pdf](/pdf/Mini-FreizeitenBlumenthal.pdf)
 PDF-Dokument [121.4 KB]
 
 ### Wochenenden für Ehemalige aus 12-Schritte-Kliniken

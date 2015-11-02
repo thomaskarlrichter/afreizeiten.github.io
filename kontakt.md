@@ -11,7 +11,7 @@ Freizeit).
 
 Die Erreichbarkeit des Freizeitwerkes ist
 
-<vorstand@selbsthilfe-freizeitwerk.de> oder <www.selbsthilfe-freizeitwerk.de>
+<vorstand@selbsthilfe-freizeitwerk.de> oder <http://www.selbsthilfe-freizeitwerk.de>
 
 > Selbsthilfe-Freizeitwerk e.V.
 > c/o Veronika Wilske-Müller

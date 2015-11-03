@@ -13,9 +13,10 @@
     <section class="page-header">
       <h1 class="title">A-Freizeiten</h1>
       <nav>
-        <a href="/home">Start</a>
+        <a href="/home">Start</a> |
+        <a href="/termine">Termine</a>
 	{% for p in site.pages %}
-	{% if p.title == "Start" %}
+	{% if p.title == "Start" or p.title == "Termine" %}
 	{% else %}
         | <a href="{{ p.url }}">{{ p.title }}</a>
 	{% endif %}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: Start
 ---
 # A-Freizeiten - Was ist das?
 

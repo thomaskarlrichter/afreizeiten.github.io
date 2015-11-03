@@ -7,7 +7,7 @@ title: Pinnwand
 Nachrichten von Freizeitlern an Freizeitler, z.B.
 Mitfahrgelegenheiten
 
-Beiträge...
+Beiträge<br> 
 ...bitte an mich schicken, ich stells dann ein.
 <webmaster@a-freizeiten.de>
 
@@ -34,8 +34,3 @@ Jahr. Bis dahin seid herzlich gegrüßt von der Gerti
 
 für Frauen, jeden ersten Donnerstag im Monat im Schloss Glarisegg am Bodensee,
 Nähe Konstanz, 19:30-21:00 Spendenbasis Infos unter 01782090444 (Monika)
-
-
-## EA-Meetingsliste
-
-<http://spatico.de/media/print/Meetings.pdf>

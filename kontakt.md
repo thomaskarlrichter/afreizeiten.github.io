@@ -13,9 +13,9 @@ Die Erreichbarkeit des Freizeitwerkes ist
 
 <vorstand@selbsthilfe-freizeitwerk.de> oder <http://www.selbsthilfe-freizeitwerk.de>
 
-> Selbsthilfe-Freizeitwerk e.V.
-> c/o Veronika Wilske-Müller
-> Vollmerhauserstraße 81
+> Selbsthilfe-Freizeitwerk e.V.<br>
+> c/o Veronika Wilske-Müller<br>
+> Vollmerhauserstraße 81<br>
 > 51645 Gummersbach
 
 Kontakt zu dieser Seite

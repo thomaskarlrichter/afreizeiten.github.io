@@ -100,7 +100,7 @@ von Mechtild und Ulrike
 
 vom 15. bis 17. Juli 2016
 
-[Mini-Freizeit in Blumenthal.pdf](/pdf/Mini-FreizeitenBlumenthal.pdf)
+[Mini-Freizeit in Blumenthal.pdf](/pdf/Mini-FreizeitinBlumenthal.pdf)
 PDF-Dokument [121.4 KB]
 
 ### Wochenenden für Ehemalige aus 12-Schritte-Kliniken

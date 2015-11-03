@@ -9,20 +9,17 @@
     <!DOCTYPE html>
     <html>
     <head>
-    
       <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
-      <link rel="stylesheet" type="text/css" class="__meteor-css__" href="http://meetingtimer.meteor.com/b12dd93ccdf45a351fb2c0e1e7bd67ac38f7a516.css?meteor_css_resource=true">
+      <link rel="stylesheet" type="text/css" class="__meteor-css__" href="//meetingtimer.meteor.com/b12dd93ccdf45a351fb2c0e1e7bd67ac38f7a516.css?meteor_css_resource=true">
       <script type="text/javascript">__meteor_runtime_config__ = JSON.parse(decodeURIComponent("%7B%22meteorRelease%22%3A%22METEOR%401.2.0.1%22%2C%22PUBLIC_SETTINGS%22%3A%7B%7D%2C%22ROOT_URL%22%3A%22http%3A%2F%2Fmeetingtimer.meteor.com%22%2C%22ROOT_URL_PATH_PREFIX%22%3A%22%22%2C%22DDP_DEFAULT_CONNECTION_URL%22%3A%22ddp%2Bsockjs%3A%2F%2Fddp--****-meetingtimer.meteor.com%2Fsockjs%22%2C%22autoupdateVersion%22%3A%225e7de55a4dec26bd69554056a4b18a5bb16827c8%22%2C%22autoupdateVersionRefreshable%22%3A%2277febd5a608488d8e33e737681405b23591f7691%22%2C%22autoupdateVersionCordova%22%3A%22738d47d95e14735565e4dd0092fa00203f9354bf%22%7D"));</script>
-      <script type="text/javascript" src="http://meetingtimer.meteor.com/93f5788b2677f3c797a5063381ab708a70501446.js?meteor_js_resource=true"></script>
-      <script type="text/javascript" src="http://meetingtimer.meteor.com/bower_components/webcomponentsjs/webcomponents.js"></script>
-      <link rel="import" href="http://meetingtimer.meteor.com/bower_components/polymer/polymer.html">
+      <script type="text/javascript" src="//meetingtimer.meteor.com/93f5788b2677f3c797a5063381ab708a70501446.js?meteor_js_resource=true"></script>
+      <script type="text/javascript" src="//meetingtimer.meteor.com/bower_components/webcomponentsjs/webcomponents.js"></script>
+      <link rel="import" href="//meetingtimer.meteor.com/bower_components/polymer/polymer.html">
+      <link rel="import" href="//meetingtimer.meteor.com/bower_components/paper-checkbox/paper-checkbox.html">
+      <link rel="import" href="//meetingtimer.meteor.com/bower_components/paper-button/paper-button.html">
+      <title>meetingtimer</title>
      </head>
      <body>
-     <h1>Meetingtimer</h1>
-     <div class="users">
-    
-		
-	</div>
      </body>
      </html>
     ]]>

@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Meetingtimer">
+    <Require feature="rpc"/>
+    <Require feature="views"/>
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+      <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
+      <h1>Meetingtimer</h1>
+      <button>melden</button>
+    ]]>
+  </Content>
+</Module>

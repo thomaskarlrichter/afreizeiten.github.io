@@ -2,4 +2,6 @@
 
 Abgebildete Personen müssen natürlich einverstanden sein.
 
-![](/images/.jpeg)
+![Schaippachmühle 2012](/images/schaippachmühle2012.jpeg)
+
+Schaippachmühle 2012

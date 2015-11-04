@@ -50,6 +50,6 @@ Niederalfingen 2004
 
 Agadir 2003
 
-![Höchstenbach 1999](/images/Höchstenbacg1999.jpeg)
+![Höchstenbach 1999](/images/Höchstenbach1999.jpeg)
 
 Höchstenbach 1999

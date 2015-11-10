@@ -4,6 +4,10 @@ title: Aktuelles
 ---
 # Aktuelles
 
+## In eigener Sache
+
+Wir trauern um unsere Webmasterin und A-Freundin Ursel aus Gummersbach.
+
 ## Blankenheim
 
 Liebe Freizeitfreunde, wir vom Vorstand haben ab dem

@@ -6,7 +6,7 @@ title: Aktuelles
 
 ## In eigener Sache
 
-Wir trauern um unsere Webmasterin und A-Freundin Ursel aus Gummersbach.
+Wir trauern um unsere Webmasterin und A-Freundin [Ursel](http://www.wirtrauern.de/Traueranzeige/Ursel-Koester) aus Gummersbach.
 
 ## Blankenheim
 

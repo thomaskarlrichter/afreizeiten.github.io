@@ -8,7 +8,7 @@ title: Aktuelles
 
 Wir trauern um unsere Webmasterin und A-Freundin [Ursel](http://www.wirtrauern.de/Traueranzeige/Ursel-Koester) aus Gummersbach.
 
-Bis ein neuer Webmaster/in gefunden ist habe ich (Thomas aus Köln) den Dienst an der Website übernommen.
+Bis ein neuer Webmaster/in gefunden ist, habe ich (Thomas aus Köln) den Dienst an der Website übernommen.
 
 ## Blankenheim
 

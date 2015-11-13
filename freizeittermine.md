@@ -81,14 +81,3 @@ Freizeit von Mechthild und Petra
 [2016 Einladung Ostern.pdf](/pdf/BremenOstern2016.pdf)
 PDF-Dokument [202.1 KB]
 
--------------------------------------------------------------------
-
-09.10. - 16.10.2016
-
-Herbstfreizeit im Wiedhölzlkaser / Reit im Winkl
-
-![Reit Herbst](/images/reitherbst.jpeg)
-
-Herbstfreizeit im Chiemgau von Gerti
-
-Die Einladung erscheint Ende 2015, vorher ist keine Anmeldung möglich

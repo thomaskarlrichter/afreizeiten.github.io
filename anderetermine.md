@@ -67,7 +67,7 @@ am 5. + 6. Dezember 2015
 
 am 5. - 8. Februar 2016
 
-<www.ea-selbsthilfe.net/aktuelles>
+<http://www.ea-selbsthilfe.net/aktuelles>
 
 ### EKS - Ländertreffen Winter 2016
 vom 15. - 17. Januar 2016

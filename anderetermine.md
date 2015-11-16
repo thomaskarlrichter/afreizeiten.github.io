@@ -55,12 +55,19 @@ Jugendherberge Lindau
 <http://coda-deutschland.de/>
 
 
-### EA Wochenende Münster
+### EA-Wochenende Münster
 
 am 5. + 6. Dezember 2015
 
 <http://www.ea-selbsthilfe.net>
 
+### EA-Wochenende in Fulda
+
+"Ich und Du sind Wir"
+
+am 5. - 8. Februar 2016
+
+<www.ea-selbsthilfe.net/aktuelles>
 
 ### EKS - Ländertreffen Winter 2016
 vom 15. - 17. Januar 2016

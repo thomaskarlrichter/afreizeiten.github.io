@@ -46,15 +46,6 @@ Wo: Köln, Osho-Place, Venloer St. 2
 
 bitte bekanntgeben - <webmaster@a-freizeiten.de>
 
-### 1. CoDA-Europatreffen in Lindau/Bodensee
-
-vom 13. - 15. November 2015
-
-Jugendherberge Lindau
-
-<http://coda-deutschland.de/>
-
-
 ### EA-Wochenende Münster
 
 am 5. + 6. Dezember 2015

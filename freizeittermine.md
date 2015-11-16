@@ -38,7 +38,7 @@ Skifreizeit in Wiedhölzlkaser/Reit im Winkl
 
 Freizeit von Gerti
 
-[2016 Skifreizeit Reit im Winkl.pdf](/pdf/SkiefreizeitReitimWinkel.pdf)
+[2016 Skifreizeit Reit im Winkl.pdf](/pdf/SkifreizeitReitimWinkl2016.pdf)
 PDF-Dokument [446.0 KB]
 
 ---------------------------------------------------------------------------

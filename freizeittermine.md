@@ -87,7 +87,7 @@ PDF-Dokument [202.1 KB]
 
 Sommerfreizeit in Grömitz/Ostsee
 
-![grömitz](/images/bremen.jpeg)
+![grömitz](/images/groemitz.jpeg)
 
 Freizeit vom Selbsthilfe Freizeitwerk e.V.
 

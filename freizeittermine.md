@@ -8,7 +8,7 @@ title: Termine
 
 Sommerfreizeit in Grömitz/Ostsee
 
-![grömitz](/images/blankenheim.jpeg)
+![grömitz](/images/bremen.jpeg)
 
 Freizeit vom Selbsthilfe Freizeitwerk e.V.
 

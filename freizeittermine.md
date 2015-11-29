@@ -4,19 +4,6 @@ title: Termine
 ---
 # FREIZEITTERMINE
 
-12.06.2016 - 26.06.2016
-
-Sommerfreizeit in Grömitz/Ostsee
-
-![grömitz](/images/bremen.jpeg)
-
-Freizeit vom Selbsthilfe Freizeitwerk e.V.
-
-[2016 Sommerfreizeit Grömitz.pdf](/pdf/Grömitz2016.pdf)
-PDF-Dokument [116 KB]
-
------------------------------------------------------------------------------
-
 26.12.2015 - 03.01.2016
 
 Silvester in Blankenheim/Eifel
@@ -93,4 +80,17 @@ Freizeit von Mechthild und Petra
 
 [2016 Einladung Ostern.pdf](/pdf/BremenOstern2016.pdf)
 PDF-Dokument [202.1 KB]
+
+-------------------------------------------------------------------
+
+12.06.2016 - 26.06.2016
+
+Sommerfreizeit in Grömitz/Ostsee
+
+![grömitz](/images/bremen.jpeg)
+
+Freizeit vom Selbsthilfe Freizeitwerk e.V.
+
+[2016 Sommerfreizeit Grömitz.pdf](/pdf/Grömitz2016.pdf)
+PDF-Dokument [116 KB]
 

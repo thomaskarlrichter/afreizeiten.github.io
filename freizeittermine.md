@@ -117,5 +117,5 @@ Sommerfreizeit in Allmannsried
 
 Freizeit vom Wolfgang
 
-[2016 Sommerfreizeit Allmannsried1.pdf](/pdf/Allmannsried1-2016.pdf)
+[2016 Sommerfreizeit Allmannsried2.pdf](/pdf/Allmannsried2-2016.pdf)
 PDF-Dokument [116 KB]

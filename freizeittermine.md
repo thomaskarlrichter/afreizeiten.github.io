@@ -94,3 +94,28 @@ Freizeit vom Selbsthilfe Freizeitwerk e.V.
 [2016 Sommerfreizeit Grömitz.pdf](/pdf/Grömitz2016.pdf)
 PDF-Dokument [116 KB]
 
+-------------------------------------------------------------------
+
+26.07.2016 - 07.08.2016
+
+Sommerfreizeit in Allmannsried
+
+![allmannsried](/images/allmansried.jpeg)
+
+Freizeit vom Wolfgang
+
+[2016 Sommerfreizeit Allmannsried1.pdf](/pdf/Allmannsried1-2016.pdf)
+PDF-Dokument [116 KB]
+
+-------------------------------------------------------------------
+
+16.08.2016 - 25.08.2016
+
+Sommerfreizeit in Allmannsried
+
+![allmannsried](/images/allmansried.jpeg)
+
+Freizeit vom Wolfgang
+
+[2016 Sommerfreizeit Allmannsried1.pdf](/pdf/Allmannsried1-2016.pdf)
+PDF-Dokument [116 KB]
